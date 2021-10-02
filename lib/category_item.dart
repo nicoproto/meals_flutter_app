@@ -13,7 +13,7 @@ class CategoryItem extends StatelessWidget {
       child: Text(title),
       decoration: BoxDecoration(
           gradient: LinearGradient(
-            colors: [color.withOpacity(0.7), color],
+            colors: [color.withOpacity(0.5), color],
             begin: Alignment.topLeft,
             end: Alignment.bottomRight,
           ),
