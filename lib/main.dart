@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import './screens/meal_detail_screen.dart';
-import './models/category.dart';
+// import './models/category.dart';
 import './screens/category_meals_screen.dart';
 import './screens/categories_screen.dart';
 
